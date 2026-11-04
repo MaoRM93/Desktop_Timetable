@@ -122,7 +122,7 @@ npm run build:linux
 
 ## License
 
-本项目未在仓库中明确声明许可证，若需要正式发布，请确认是否补充 LICENSE 文件并在发布前遵守相应协议。
+本项目采用 [MIT 许可证](LICENSE)，详见仓库根目录的 LICENSE 文件。
 
 ---
 
