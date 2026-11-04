@@ -123,7 +123,3 @@ npm run build:linux
 ## License
 
 本项目采用 [MIT 许可证](LICENSE)，详见仓库根目录的 LICENSE 文件。
-
----
-
-如果你愿意，我还可以继续帮你把这个 README 改成更适合 GitHub 展示的英文版、中文精简版，或者加上项目截图/截图展示区。
